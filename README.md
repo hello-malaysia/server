@@ -154,7 +154,4 @@ Please consider registering an account even if you self-host in order to support
 
 Become a financial contributor and help us sustain our community!
 
-## Contributors ($10 / month)
-
-[![ilovept](https://github.com/ilovept.png?size=40)](https://github.com/ilovept)
-[![ryanleesipes](https://github.com/ryanleesipes.png?size=40)](https://github.com/ryanleesipes)
+##
